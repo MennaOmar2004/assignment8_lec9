@@ -1,16 +1,11 @@
-# lec_8
+## assignment7_lec8
 
-A new Flutter project.
 
-## Getting Started
+### -First_Screen
+<img width="400" height="725" alt="Image" src="https://github.com/user-attachments/assets/bb92a58c-0a87-48df-8095-c32ab5e32aa7" />
 
-This project is a starting point for a Flutter application.
+### -Second_Screen
+<img width="400" height="725" alt="Image" src="https://github.com/user-attachments/assets/16fa9871-c466-442f-a8e8-f2434e236f80" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### -Third_Screen
+<img width="400" height="725" alt="Image" src="https://github.com/user-attachments/assets/d229d749-80d4-4811-8353-ea6026b1215f" />
